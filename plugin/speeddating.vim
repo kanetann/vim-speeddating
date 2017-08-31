@@ -84,6 +84,7 @@ SpeedDatingFormat %Y-%m-%d%[ T_-]%H:%M:%S%?[Z]    " SQL, etc.
 SpeedDatingFormat %Y-%m-%d%[ T_-]%H:%M%z          " date -Im
 SpeedDatingFormat %Y-%m-%d%[ T_-]%H:%M
 SpeedDatingFormat %Y-%m-%d
+SpeedDatingFormat %Y%m%d
 SpeedDatingFormat %-I:%M:%S%?[ ]%^P
 SpeedDatingFormat %-I:%M%?[ ]%^P
 SpeedDatingFormat %-I%?[ ]%^P
